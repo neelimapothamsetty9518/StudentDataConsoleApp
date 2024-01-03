@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\bin\Debug\StudentDataConsoleApp.exe.config
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\bin\Debug\StudentDataConsoleApp.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\bin\Debug\StudentDataConsoleApp.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\obj\Debug\StudentDataConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\obj\Debug\StudentDataConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\obj\Debug\StudentDataConsoleApp.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\StudentDataConsoleApp\StudentDataConsoleApp\obj\Debug\StudentDataConsoleApp.pdb
