@@ -1,0 +1,6 @@
+"# Ignore these files and directories" 
+
+bin/
+obj/
+*.exe
+*.dll
